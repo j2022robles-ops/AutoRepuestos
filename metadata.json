@@ -1,0 +1,8 @@
+{
+  "name": "AutoRepuestos Pro | E-Commerce y Campañas de Tráfico",
+  "description": "Plataforma de e-commerce de repuestos automotrices para talleres mecánicos, gestión de ventas en línea y administrador de campañas de tráfico digital.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
